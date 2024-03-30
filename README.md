@@ -66,7 +66,7 @@ int main(void)
 
 
 
-##OUTPUT
+**OUTPUT**
 ![Os output 1](https://github.com/Akshayasakthivels/Linux-Process-API-fork-wait-exec/assets/144870561/84420766-4562-4fc3-8b0b-2e63c2b76eb0)
 
 
@@ -122,7 +122,7 @@ int main() {
 
 
 
-##OUTPUT
+**OUTPUT**
 
 ![Os output 2](https://github.com/Akshayasakthivels/Linux-Process-API-fork-wait-exec/assets/144870561/b9fac64d-e59f-4945-a6bd-e8f29bc691f6)
 
@@ -190,7 +190,7 @@ int main() {
 
 
 
-##OUTPUT
+**OUTPUT**
 
 
 ![os output-3](https://github.com/Akshayasakthivels/Linux-Process-API-fork-wait-exec/assets/144870561/6f6bf6ba-611f-4b92-9bc8-2359155f86b2)
